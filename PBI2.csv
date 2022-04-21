@@ -1,0 +1,230 @@
+Entidad,ENTIDAD1
+Código Departamento,91
+Departamento,AMAZONAS
+Latitud,"-4,205278"
+Longitud,"-69,932778"
+Población,79020
+,
+Entidad,ENTIDAD2
+Código Departamento,5
+Departamento,ANTIOQUIA
+Latitud,"6,216667"
+Longitud,"-75,566667"
+Población,6677930
+,
+Entidad,ENTIDAD3
+Código Departamento,81
+Departamento,ARAUCA
+Latitud,"7,083333"
+Longitud,"-70,750000"
+Población,294206
+,
+Entidad,ENTIDAD4
+Código Departamento,8
+Departamento,ATLÁNTICO
+Latitud,"10,983333"
+Longitud,"-74,783333"
+Población,2722128
+,
+Entidad,ENTIDAD5
+Código Departamento,13
+Departamento,BOLÍVAR
+Latitud,"10,4"
+Longitud,"-75,5"
+Población,2180976
+,
+Entidad,ENTIDAD6
+Código Departamento,15
+Departamento,BOYACÁ
+Latitud,"5,533333"
+Longitud,"-73,366667"
+Población,1242731
+,
+Entidad,ENTIDAD7
+Código Departamento,17
+Departamento,CALDAS
+Latitud,"5,1"
+Longitud,"-75,55"
+Población,1018453
+,
+Entidad,ENTIDAD8
+Código Departamento,18
+Departamento,CAQUETÁ
+Latitud,"1,616667"
+Longitud,"-75,6"
+Población,410521
+,
+Entidad,ENTIDAD9
+Código Departamento,85
+Departamento,CASANARE
+Latitud,"5,35"
+Longitud,"-72,41"
+Población,435195
+,
+Entidad,ENTIDAD10
+Código Departamento,19
+Departamento,CAUCA
+Latitud,"2,45"
+Longitud,"-76,616667"
+Población,1491937
+,
+Entidad,ENTIDAD11
+Código Departamento,20
+Departamento,CESAR
+Latitud,"10,483333"
+Longitud,"-73,25"
+Población,1295387
+,
+Entidad,ENTIDAD12
+Código Departamento,27
+Departamento,CHOCÓ
+Latitud,"5,7"
+Longitud,"-76,666667"
+Población,544764
+,
+Entidad,ENTIDAD13
+Código Departamento,23
+Departamento,CÓRDOBA
+Latitud,"8,75"
+Longitud,"-75,883333"
+Población,1828947
+,
+Entidad,ENTIDAD14
+Código Departamento,25
+Departamento,CUNDINAMARCA
+Latitud,"5,000000"
+Longitud,"-74,166667"
+Población,3242999
+,
+Entidad,ENTIDAD15
+Código Departamento,11
+Departamento,BOGOTÁ D.C.
+Latitud,"4,60971"
+Longitud,"-74,08175"
+Población,7743955
+,
+Entidad,ENTIDAD16
+Código Departamento,94
+Departamento,GUAINÍA
+Latitud,"3,865278"
+Longitud,"-67,923889"
+Población,50636
+,
+Entidad,ENTIDAD17
+Código Departamento,95
+Departamento,GUAVIARE
+Latitud,"2,566667"
+Longitud,"-72,633333"
+Población,86657
+,
+Entidad,ENTIDAD18
+Código Departamento,41
+Departamento,HUILA
+Latitud,"2,998611"
+Longitud,"-75,304444"
+Población,1122622
+,
+Entidad,ENTIDAD19
+Código Departamento,44
+Departamento,LA GUAJIRA
+Latitud,"11,55"
+Longitud,"-72,9"
+Población,965718
+,
+Entidad,ENTIDAD20
+Código Departamento,47
+Departamento,MAGDALENA
+Latitud,"11,241944"
+Longitud,"-74,205278"
+Población,1427026
+,
+Entidad,ENTIDAD21
+Código Departamento,50
+Departamento,META
+Latitud,"4,15"
+Longitud,"-73,633333"
+Población,1063454
+,
+Entidad,ENTIDAD22
+Código Departamento,52
+Departamento,NARIÑO
+Latitud,"1,166667"
+Longitud,"-77,266667"
+Población,1627589
+,
+Entidad,ENTIDAD23
+Código Departamento,54
+Departamento,NORTE DE SANTANDER
+Latitud,"7,9"
+Longitud,"-72,5"
+Población,1620318
+,
+Entidad,ENTIDAD24
+Código Departamento,86
+Departamento,PUTUMAYO
+Latitud,"1,15"
+Longitud,"-76,616667"
+Población,359127
+,
+Entidad,ENTIDAD25
+Código Departamento,63
+Departamento,QUINDÍO
+Latitud,"4,533333"
+Longitud,"-75,7"
+Población,555401
+,
+Entidad,ENTIDAD26
+Código Departamento,66
+Departamento,RISARALDA
+Latitud,"4,816667"
+Longitud,"-75,7"
+Población,961055
+,
+Entidad,ENTIDAD27
+Código Departamento,88
+Departamento,ARCHIPIÉLAGO DE SAN ANDRÉS. PROVIDENCIA Y SANTA CATALINA
+Latitud,"12,55"
+Longitud,"-81,716667"
+Población,63692
+,
+Entidad,ENTIDAD28
+Código Departamento,68
+Departamento,SANTANDER
+Latitud,"7,133333"
+Longitud,"-73,000000"
+Población,2280908
+,
+Entidad,ENTIDAD29
+Código Departamento,70
+Departamento,SUCRE
+Latitud,"9,3"
+Longitud,"-75,4"
+Población,949252
+,
+Entidad,ENTIDAD30
+Código Departamento,73
+Departamento,TOLIMA
+Latitud,"4,433333"
+Longitud,"-75,233333"
+Población,1339998
+,
+Entidad,ENTIDAD31
+Código Departamento,76
+Departamento,VALLE DEL CAUCA
+Latitud,"3,416667"
+Longitud,"-76,516667"
+Población,4532152
+,
+Entidad,ENTIDAD32
+Código Departamento,97
+Departamento,VAUPÉS
+Latitud,"1,2"
+Longitud,"-70,166667"
+Población,44712
+,
+Entidad,ENTIDAD33
+Código Departamento,99
+Departamento,VICHADA
+Latitud,"6,183333"
+Longitud,"-67,466667"
+Población,112958
